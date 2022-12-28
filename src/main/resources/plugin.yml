@@ -1,0 +1,5 @@
+name: Npc
+version: '${project.version}'
+main: tk.anannoyingoose.npc.Npc
+api-version: 1.19
+authors: [ AnAnnoyinGoose ]
